@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## 👻️
 <!--
 **kyamavictor854-del/kyamavictor854-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
